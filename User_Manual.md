@@ -2,7 +2,7 @@
 
 ## 🌟 **1. Introduction**
 
-Welcome to the **AI-Based Fish Disease Detection System**. This intelligent system allows fish farmers and researchers to quickly detect fish diseases using a deep learning model. By simply uploading or capturing an image of a fish, users can receive immediate disease predictions and suggested next steps — making disease management faster and more accessible.
+Welcome to the **AI-Based Fish Disease Detection System**. This intelligent system allows fish farmers and researchers to quickly detect fish diseases using a deep learning model. By simply uploading or capturing an image of a fish, users can receive immediate disease predictions and suggested next steps making disease management faster and more accessible.
 
 ---
 
