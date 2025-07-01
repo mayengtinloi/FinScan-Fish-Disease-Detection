@@ -142,8 +142,8 @@ Steps:
 1. Go to the **Appearance Settings** section.
 2. Select one of the following modes:
 
-   * **Light Mode** – Best for bright surroundings.
-   * **Dark Mode** – Ideal for low-light or night-time usage.
+   * **Light Mode** 
+   * **Dark Mode** 
 3. The selected theme will be applied throughout the application.
 
 ---
