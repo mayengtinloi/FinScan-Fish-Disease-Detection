@@ -5,6 +5,7 @@ Welcome to the **AI-Based Fish Disease Detection System**. This intelligent syst
 
 ## 💻 **2. Installation and Setup**
 To run the **FinScan Fish Disease Detection** app on your computer, follow these simple steps.
+
 ###  **Step 2.1: Get the Project Files**
 First, download the project files from GitHub.
 Open your terminal:
@@ -56,6 +57,7 @@ py -3.10 -m venv .venv
 
 After activating, you should see `(.venv)` at the start of your terminal line.
 
+
 ### 🔹 **Step 2.3: Install Required Libraries**
 Install the libraries listed in `requirements.txt`.
 With your virtual environment still active, type:
@@ -70,13 +72,18 @@ This will install:
 * **numpy, pandas, matplotlib, scikit-learn** – data handling and analysis
 * **Pillow** – image processing
 
-###🔹 **Step 2.4: Run the App**
+### 🔹 **Step 2.4: Get the Project Files**
 With everything installed, you can now start the app.
 Make sure your virtual environment is still active, then type:
 
 ```bash
 streamlit run FishDiseaseApplication.py
 ```
+After a few seconds, you will see a message in your terminal that looks like this:
 
-Your default web browser will open automatically, and you will see the FinScan Fish Disease Detection app running.
+```bash
+Local URL: http://localhost:8501
+Network URL: http://192.168.xx.xx:8501
+```
+Copy the local URL (e.g., http://localhost:8501) and paste it into your browser to open and use the application.
 
