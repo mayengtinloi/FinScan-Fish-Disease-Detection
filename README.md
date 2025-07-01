@@ -13,6 +13,23 @@ Key goals of this project include:
 * Enabling data-driven fish farming practices that can lead to higher productivity and better disease management.
 * Offering a scalable solution that can potentially be deployed as a **mobile or web-based application**, making it practical even in rural or on-site environments.
 
+### 📁 Project Structure
+```
+FinScan-Fish-Disease-Detection/
+├── data
+│ ├── Cleaned_Dataset.zip
+│ └── Raw_Dataset.zip
+├── src/
+│ ├── FishDiseaseApplication.py 
+│ ├── MobileNetV2.keras
+│ ├── ModelSelectionFinal.py
+│ └── preprocessing.py
+├── images
+│ ├── logo.png
+├── README.md
+├── User_Manual.md
+└── requirements.txt
+```
 
 # 🚀 Model Deployment
 
