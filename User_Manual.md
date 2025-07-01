@@ -39,7 +39,7 @@ If it is not 3.10 or higher, download from:
 👉 [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
 
-#### ✅ **macOS/Linux**
+#### **macOS/Linux**
 
 ```bash
 python3.10 -m venv .venv
@@ -48,7 +48,7 @@ source .venv/bin/activate
 
 ---
 
-#### ✅ **Windows**
+#### **Windows**
 
 ```bash
 py -3.10 -m venv .venv
