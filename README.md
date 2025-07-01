@@ -19,13 +19,13 @@ FinScan-Fish-Disease-Detection/
 ├── data
 │ ├── Cleaned_Dataset.zip
 │ └── Raw_Dataset.zip
+├── images
+│ ├── logo.png
 ├── src/
 │ ├── FishDiseaseApplication.py 
 │ ├── MobileNetV2.keras
 │ ├── ModelSelectionFinal.py
 │ └── preprocessing.py
-├── images
-│ ├── logo.png
 ├── README.md
 ├── User_Manual.md
 └── requirements.txt
